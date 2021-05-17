@@ -11,7 +11,7 @@ function App() {
   if (loading) {
     return (
       <div className='loading'>
-        <h1>Loading...</h1>
+        <h1>Cargando...</h1>
       </div>
     )
   }
